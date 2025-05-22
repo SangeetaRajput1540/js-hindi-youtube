@@ -3,4 +3,4 @@ let age = 22
 var string = null
 let accoutId = true
 
-console.table([typeof userName, age, string, accoutId])
+console.table(typeof string)

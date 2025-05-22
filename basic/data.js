@@ -14,5 +14,25 @@ let BoolfoologIn = Boolean(foologIn)
 let stringNumber = "sita"
 let StringStringNumber  = String(stringNumber)
 
-console.log(typeof stringNumber)
-console.log(StringStringNumber)
+//console.log(typeof stringNumber)
+//console.log(StringStringNumber)
+
+let value = 4
+const nasValue = -value
+ 
+//console.log(nasValue)
+
+//console.log(true+)
+
+/////comparison//////
+//console.log( 2 > 1)
+
+//console.log("2" > 1)
+
+//console.log("2" >= 1)
+
+//console.log(null > 1)
+//console.log(null < 1)
+console.log(null >= 0)
+//console.log(null == 1)
+console.log("1" === 1)
