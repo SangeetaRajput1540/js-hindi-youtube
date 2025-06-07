@@ -1,38 +1,41 @@
-let score = true
+let score =100
 
 let valueInNumber = Number(score)
 //console.log(typeof score)
+//
+// console.log(valueInNumber)
 
-//console.log(valueInNumber)
+let fool = "sang"
+let Boolfool = Boolean(fool)
+//console.log(typeof fool)
 
-let foologIn = ""
-let BoolfoologIn = Boolean(foologIn)
+//console.log(Boolfool)
 
-//console.log( BoolfoologIn)
-//console.log(typeof foologIn)
+let Name = "kapil"
+let StringName  = String(Name)
 
-let stringNumber = "sita"
-let StringStringNumber  = String(stringNumber)
+//console.log(typeof Name)
+//console.log(StringName)
 
-//console.log(typeof stringNumber)
-//console.log(StringStringNumber)
+let x = 1
+let y = --x
 
-let value = 4
-const nasValue = -value
- 
-//console.log(nasValue)
+//console.log(x)
+//console.log(y)
 
-//console.log(true+)
 
-/////comparison//////
-//console.log( 2 > 1)
+///////////****************  comparison   ********************************* *////
 
-//console.log("2" > 1)
+//console.log(2  > 1)
+//console.log(2 >= 1)
 
-//console.log("2" >= 1)
+//console.log(2  != 1)
 
-//console.log(null > 1)
-//console.log(null < 1)
+//console.log(2  < 1)
+
+//console.log(2  <= 1)
+
+
+console.log(0 === 1)
+
 console.log(null >= 0)
-//console.log(null == 1)
-console.log("1" === 1)

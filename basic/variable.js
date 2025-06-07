@@ -1,6 +1,5 @@
-const userName = "sangeeta"
-let age = 22
-var string = null
-let accoutId = true
+const score = 100
+let gameName = 200
+var name  = "sangeeta"
 
-console.table(typeof string)
+console.log(typeof name)
